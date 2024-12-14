@@ -23,7 +23,7 @@ Hello I'm Iván Ponti Rubio, a junior proggramer studding Web Application Develo
       <li>A2 level of French</li>
       <li>Participated in diferrent courses like: 
             <ul>
-              <li><a href="[file:///C:/Users/ivanp/Downloads/ai-fundamentals.pdf](https://drive.google.com/drive/u/0/folders/1bLtr6mJ9KsPq-jPloj_EMC59fQmhvIal)">IA fundamentals by Udia<a></li>
+              <li><a href="https://drive.google.com/drive/u/0/folders/1bLtr6mJ9KsPq-jPloj_EMC59fQmhvIal">IA fundamentals by Udia<a></li>
             </ul>
       </li>
   </ul>
