@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Draw.io-orange?logo=Draw.io">
 <img src ="https://img.shields.io/badge/UML-%20black?style=flat&logo=UML">
+<img src="https://img.shields.io/badge/Ubuntu-purple?logo=Ubuntu">
