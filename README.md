@@ -14,7 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📋 Description
+Hello I'm Iván Ponti Rubio, a junior proggramer studding Web Application Development with huge interest in taking part in new proyect that involved proggraming. I consider myself as a hardworking person that can afford challengues without be frustrated and a very constant person with my projects.
 
+## Extras
+  <ul>
+      <li>B2 level of English</li>
+      <li>A2 level of French</li>
+      <li>Participated in diferrent courses like: 
+            <ul>
+              <li><a href="https://drive.google.com/drive/u/0/my-drive">IA fundamentals by Udia<a></li>
+            </ul>
+        
+      </li>
+  </ul>
 ## 💻 Languages & Tools I know
   
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
