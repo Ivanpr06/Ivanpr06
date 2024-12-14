@@ -19,14 +19,18 @@ Hello I'm Iván Ponti Rubio, a junior proggramer studding Web Application Develo
 
 ## Extras
   <ul>
-      <li>B2 level of English</li>
-      <li>A2 level of French</li>
-      <li>Participated in diferrent courses like: 
+      <li>🗽B2 level of English</li>
+      <li>🗼A2 level of French</li>
+      <li>🥋Black Belt 1º Dan of Taekwondo</li>
+      <li>👨‍💻Participated in diferrent courses like: 
             <ul>
               <li><a href="https://drive.google.com/drive/u/0/folders/1bLtr6mJ9KsPq-jPloj_EMC59fQmhvIal">IA fundamentals by Udia<a></li>
             </ul>
       </li>
+      
   </ul>
+
+                
 ## 💻 Languages & Tools I know
   
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
