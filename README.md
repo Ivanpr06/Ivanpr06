@@ -1,23 +1,9 @@
 ## Hi, I'm Iván 👋
 
-<!--
-**Ivanpr06/Ivanpr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 📋 Description
-Hello I'm Iván Ponti Rubio, a junior proggramer studding Web Application Development with huge interest in taking part in new proyect that involved proggraming. I consider myself as a hardworking person that can afford challengues without be frustrated and a very constant person with my projects.
+Hello, I'm Iván Ponti Rubio, a junior programmer studying Web Application Development with a huge interest in participating in new projects that involve programming. I consider myself a hardworking person who can handle challenges without frustration and remains consistent with my projects. Despite not having had the opportunity to be part of a professional project yet, I would love to share knowledge and work with a team that encourages me to become a better professional while enjoying the thing I like the most.
 
-## Extras
+## 🦾 Extras
   <ul>
       <li>🗽B2 level of English</li>
       <li>🗼A2 level of French</li>
@@ -26,8 +12,7 @@ Hello I'm Iván Ponti Rubio, a junior proggramer studding Web Application Develo
             <ul>
               <li><a href="https://drive.google.com/drive/u/0/folders/1bLtr6mJ9KsPq-jPloj_EMC59fQmhvIal">IA fundamentals by Udia<a></li>
             </ul>
-      </li>
-      
+      </li>   
   </ul>
 
                 
