@@ -22,7 +22,7 @@ Hello, I'm Iván Ponti Rubio, a junior programmer studying Web Application Devel
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
 <img src ="https://img.shields.io/badge/Java-orange?style=flat">
 <img src ="https://img.shields.io/badge/MariaDB-purple?style=flat&logo=MariaDB">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
