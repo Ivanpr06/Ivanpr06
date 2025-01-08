@@ -10,7 +10,7 @@ Hello, I'm Iván Ponti Rubio, a junior programmer studying Web Application Devel
       <li>🥋Black Belt 1º Dan of Taekwondo</li>
       <li>👨‍💻Participated in diferrent courses like: 
             <ul>
-              <li><a href="https://drive.google.com/drive/u/0/folders/1bLtr6mJ9KsPq-jPloj_EMC59fQmhvIal">IA fundamentals by Udia<a></li>
+              <li><a href="https://udia.es/ai-fundamentals">IA fundamentals by Udia<a></li>
             </ul>
       </li>   
   </ul>
