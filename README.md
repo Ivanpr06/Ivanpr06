@@ -19,7 +19,6 @@ Hello, I'm Iván Ponti Rubio, a junior programmer studying Web Application Devel
 ## 💻 Languages & Tools I know
   
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
