@@ -18,16 +18,17 @@ Hello, I'm Iván Ponti Rubio, a junior programmer studying Web Application Devel
 ## 💻 Languages & Tools I know
   
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript%20-%20black?logo=JavaScript">
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=yellow">
 <img src ="https://img.shields.io/badge/Java-orange?style=flat">
 <img src ="https://img.shields.io/badge/MariaDB-purple?style=flat&logo=MariaDB">
+<img src="https://img.shields.io/badge/Oracle-red?logo=Oracle">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/JavaScript%20-%20black?logo=JavaScript">
 <br>
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Draw.io-orange?logo=Draw.io">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
+<img src="https://img.shields.io/badge/Git-orange?logo=Git&logoColor=white">
 <img src ="https://img.shields.io/badge/UML-%20black?style=flat&logo=UML">
 <img src="https://img.shields.io/badge/Ubuntu-purple?logo=Ubuntu">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/JetBrains%20-%20purple?logo=JetBrains">
